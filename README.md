@@ -49,7 +49,7 @@ src/
 
 ## 📸 Screenshots
 <div align="center">
-  <img src="./blood-donation-app/src/assets/screenshots/home.png" width="50%" />
+  <img src="./src/assets/screenshots/home.png" width="50%" />
   <img src="./blood-donation-app/src/assets/screenshots/donate.png" width="50%" /> 
   <img src="./blood-donation-app/src/assets/screenshots/request.png" width="50%" />
    <img src="./blood-donation-app/src/assets/screenshots/about.png" width="50%" />
