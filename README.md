@@ -33,7 +33,7 @@
 </div>
 
 ## 📂 Project Structure
-
+```bash
 src/
 ├── components/           # Reusable components
 │   ├── donor/            # Donor-related
@@ -45,15 +45,37 @@ src/
 ├── styles/               # SCSS styles
 ├── utils/                # Helper functions
 └── assets/               # Static assets
-</div>
-
+  
+```
 ## 📸 Screenshots
-<div align="center">
-  <img src="./assets/screenshots/home.png"/>
-  <img src="./assets/screenshots/donate.png"/> 
-  <img src="./assets/screenshots/request.png"/>
-   <img src="./assets/screenshots/about.png"/>
-</div>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./assets/screenshots/home.png" width="300" alt="Home Page"/><br/>
+      🏠 <strong>Home Page</strong><br/>
+      Shows a welcome message and latest blood requests.
+    </td>
+    <td align="center">
+      <img src="./assets/screenshots/donate.png" width="300" alt="Donate Page"/><br/>
+      🩸 <strong>Donate Page</strong><br/>
+      Donors can register and submit donation info.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/screenshots/request.png" width="300" alt="Request Page"/><br/>
+      📥 <strong>Request Page</strong><br/>
+      Users can request blood and see request status.
+    </td>
+    <td align="center">
+      <img src="./assets/screenshots/about.png" width="300" alt="About Page"/><br/>
+      ℹ️ <strong>About Page</strong><br/>
+      Information about the platform and mission.
+    </td>
+  </tr>
+</table>
+
 
 ## 🚀 Quick Start
 ```bash
@@ -65,4 +87,5 @@ npm install
 
 # Start development server
 npm run dev
+```
 
