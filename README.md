@@ -49,10 +49,10 @@ src/
 
 ## 📸 Screenshots
 <div align="center">
-  <img src="blood-donation-app/assets/screenshots/home.png" width="50%" />
-  <img src="blood-donation-app/assets/screenshots/donate.png" width="50%" /> 
-  <img src="blood-donation-app/assets/screenshots/request.png" width="50%" />
-   <img src="blood-donation-app/assets/screenshots/about.png" width="50%" />
+  <img src="./assets/screenshots/home.png"/>
+  <img src="./assets/screenshots/donate.png"/> 
+  <img src="./assets/screenshots/request.png"/>
+   <img src="./assets/screenshots/about.png"/>
 </div>
 
 ## 🚀 Quick Start
