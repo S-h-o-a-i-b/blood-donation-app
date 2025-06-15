@@ -35,16 +35,17 @@
 ## 📂 Project Structure
 ```bash
 src/
-├── components/           # Reusable components
-│   ├── donor/            # Donor-related
-│   ├── request/          # Blood request
-│   └── ui/               # Generic UI
-├── contexts/             # State management
-├── hooks/                # Custom hooks
-├── pages/                # Application views
-├── styles/               # SCSS styles
-├── utils/                # Helper functions
-└── assets/               # Static assets
+├── components/
+│   ├── Navbar.jsx
+│   └── Footer.jsx
+├── pages/
+│   ├── Home.jsx
+│   ├── Donate.jsx
+│   ├── Request.jsx
+│   └── About.jsx
+├── App.jsx
+├── main.jsx
+└── index.css
   
 ```
 ## 📸 Screenshots
