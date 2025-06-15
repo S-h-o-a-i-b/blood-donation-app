@@ -33,7 +33,7 @@
 </div>
 
 ## 📂 Project Structure
-```bash
+
 src/
 ├── components/           # Reusable components
 │   ├── donor/            # Donor-related
