@@ -81,7 +81,7 @@ src/
 ## 🚀 Quick Start
 ```bash
 # Clone repository
-git clone https://github.com/yourrepo/bloodbridge.git
+git@github.com:S-h-o-a-i-b/blood-donation-app.git
 
 # Install dependencies
 npm install
